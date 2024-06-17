@@ -27,15 +27,15 @@ This is a simple command-line interface (CLI) application for managing a library
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.8+
 - Pipenv
 
 ### Installation
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd library_management
+    git clone <https://github.com/Felleria/liblary-management-system.git>
+    cd library-management-system
     ```
 
 2. Install the dependencies:
